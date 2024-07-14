@@ -13,3 +13,29 @@ with your equiped weapon, and the coordinates of where you will need to interact
 
 
 NOTE- All modding/scripting projects like this need to be done on offline characters where the TOS is more lax to projects/learning.
+
+
+
+
+
+****MOCK BUG REPORT**** 
+
+[D2R][UI] Weapons with the ‘GRINDING’ prefix can be sold for more than their buyback price. 
+
+ 
+
+****Steps to Reproduce****- 
+1. Find and equip a weapon with the ‘GRINDING’ prefix
+2.Swap to classic graphics  
+3.Navigate to an in-game shop keeper 
+4.Navigate to a ‘Weapons’ tab within the shop and ensure there is enough room for the Grinding weapon to appear after selling 
+5.Left click the ‘Sell’ button to sell the equipped weapon (Only way this exploit occurs, right-clicking to sell does not) 
+6- Observe the gold increase 
+
+
+****Reproduction Rate****- 100% 
+
+****Version**** – Production version x.xx 
+
+****Additional details****- 
+Not all grinding prefix items sell for more than their buyback price, but they all sell for a different amount than the tooltip would indicate. 
