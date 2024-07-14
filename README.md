@@ -29,8 +29,9 @@ NOTE- All modding/scripting projects like this need to be done on offline charac
 2. Swap to classic graphics  
 3. Navigate to an in-game shop keeper 
 4. Navigate to a ‘Weapons’ tab within the shop and ensure there is enough room for the Grinding weapon to appear after selling 
-5. Left click the ‘Sell’ button to sell the equipped weapon (Only way this exploit occurs, right-clicking to sell does not) 
-6. Observe the gold increase 
+5. Left click the ‘Sell’ button to sell the equipped weapon (Only way this exploit occurs, right-clicking to sell does not)
+6. Buy the weapon back
+7. Observe the gold increase 
 
 
 ****Reproduction Rate****- 100% 
